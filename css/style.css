@@ -70,7 +70,3 @@ img{
 .secret:checked~.myth{
     visibility: visible;
 }
-.secret:checked~.imgm{
-    height: 300px;
-    width: auto;
-}
