@@ -58,7 +58,7 @@ img{
 
 .myst{
     position: absolute;
-    margin-top: 4%;
+    margin-top: 5%;
 }
 .myth{
     visibility: hidden;
@@ -68,7 +68,7 @@ img{
 
 .secret{
     position: absolute;
-    margin-top: 97vh;
+    margin-top: 90vh;
     z-index: 9;
 }
 .secret:checked~.myth{
