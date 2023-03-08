@@ -63,6 +63,7 @@ img{
 .myth{
     visibility: hidden;
     position: absolute;
+    background:white;
 }
 
 .secret{
