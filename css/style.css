@@ -67,7 +67,7 @@ img{
 
 .secret{
     position: absolute;
-    margin-top: 97vh;
+    margin-top: 90vh;
     z-index: 9;
 }
 .secret:checked~.myth{
