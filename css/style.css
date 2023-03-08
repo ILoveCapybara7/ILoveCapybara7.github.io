@@ -41,7 +41,7 @@
 }
 
 img{
-    height: 300px;
+    height: 30vh;
     width: auto;
 }
 
@@ -56,7 +56,10 @@ img{
 }
 
 
-
+.myst{
+    position: absolute;
+    margin-top: 2%;
+}
 .myth{
     visibility: hidden;
     position: absolute;
@@ -69,4 +72,8 @@ img{
 }
 .secret:checked~.myth{
     visibility: visible;
+}
+.secret:checked~.imgm{
+    height: 300px;
+    width: auto;
 }
